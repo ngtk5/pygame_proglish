@@ -1,0 +1,12 @@
+label_description_font_size=20
+label_description_x=100
+label_description_y=100
+button_diff_width=200
+button_diff_height=60
+button_diff_font_size=40
+button_easy_x=230
+button_easy_y=180
+button_normal_x=230
+button_normal_y=280
+button_hard_x=230
+button_hard_y=380

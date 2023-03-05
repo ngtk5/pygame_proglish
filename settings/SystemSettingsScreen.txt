@@ -1,0 +1,16 @@
+label_volume_font_size=32
+label_volume_x=100
+label_volume_y=100
+label_se_volume_font_size=20
+label_se_volume_x=150
+label_se_volume_y=150
+button_se_volume_width=30
+button_se_volume_height=30
+button_se_volume_font_size=18
+button_se_volume_sub_x=200
+button_se_volume_sub_y=150
+button_se_volume_add_x=250
+button_se_volume_add_y=150
+label_show_se_volume_font_size=16
+label_show_se_volume_x=300
+label_show_se_volume_y=150
